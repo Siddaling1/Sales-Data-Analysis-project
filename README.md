@@ -10,3 +10,5 @@ The goal is to explore sales trends, identify top products, and analyze revenue 
 
 # Dashboard
 <a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%202025-08-16%20173706.png">Dashboard</a>
+![Dashboard](https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%202025-08-16%20173706.png)
+
