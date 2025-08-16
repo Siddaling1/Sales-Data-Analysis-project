@@ -7,3 +7,6 @@ This project focuses on analyzing retail sales data to gain insights into custom
 This project is a beginner-level data analytics project aimed at analyzing retail sales data. The dataset contains order-level information such as product details, categories, customer IDs, regions, and sales amounts.
 
 The goal is to explore sales trends, identify top products, and analyze revenue distribution using simple analytics and visualization techniques
+
+# Dashboard
+<a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%202025-08-16%20173706.png">Dashboard</a>
