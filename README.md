@@ -10,13 +10,13 @@ This project is a beginner-level data analytics project aimed at analyzing retai
 
 The goal is to explore sales trends, identify top products, and analyze revenue distribution using simple analytics and visualization techniques
 
-# Dashboard
+## Dashboard
 ![Dashboard](https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%202025-08-16%20173706.png)
 
-# Screenshot
+## Screenshot
 <a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%20of%20Sales%20Data%20Analysis.png">Screenshot</a>
 
-# Questions
+## Questions
 What is the total revenue generated?
 
 Which product categories drive the most sales?
