@@ -1,3 +1,7 @@
+## Description
+
+This project focuses on analyzing retail sales data to gain insights into customer behavior, product performance, and revenue trends. The dataset contains information on orders, including products, categories, regions, and total sales. 
+
 ## Project Overview
 
 This project is a beginner-level data analytics project aimed at analyzing retail sales data. The dataset contains order-level information such as product details, categories, customer IDs, regions, and sales amounts.
