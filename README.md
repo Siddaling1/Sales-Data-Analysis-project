@@ -1,3 +1,5 @@
+# Sales Data Analysis
+
 ## Description
 
 This project focuses on analyzing retail sales data to gain insights into customer behavior, product performance, and revenue trends. The dataset contains information on orders, including products, categories, regions, and total sales and Using tools such as Python, Excel, and Power BI.
