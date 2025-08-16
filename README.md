@@ -15,7 +15,7 @@ The goal is to explore sales trends, identify top products, and analyze revenue 
 
 
 ## Screenshot
-<a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%20of%20Sales%20Data%20Analysis.png">Screenshot</a>
+<a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot.png">Screenshot</a>
 
 ## Questions
 What is the total revenue generated?
