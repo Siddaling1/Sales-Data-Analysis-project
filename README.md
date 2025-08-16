@@ -33,3 +33,16 @@ What is the total revenue by month?
 
 What is the total sales by category?
 
+## Tools Used  
+**Python**  – Data cleaning, analysis, visualization  
+**Excel** – Quick data exploration  
+ **Power BI** – Interactive dashboard  
+
+
+##  Key Metrics  
+1. **Total Revenue** – ₹13,191,200  
+2. **Average Order Value (AOV)** – ₹43,971  
+3. **Top Customers** – Top 5 customers contribute   
+4. **Category Analysis** – Electronics drives most of the revenue  
+5. **Regional Analysis** – South region contributes the highest sales  
+
