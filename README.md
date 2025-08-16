@@ -14,3 +14,20 @@ The goal is to explore sales trends, identify top products, and analyze revenue 
 # Screenshot
 <a href="https://github.com/Siddaling1/Sales-Data-Analysis-project/blob/main/Screenshot%20of%20Sales%20Data%20Analysis.png">Screenshot</a>
 
+# Questions
+What is the total revenue generated?
+
+Which product categories drive the most sales?
+
+Which regions contribute the highest revenue?
+
+Who are the top customers?
+
+What is the average order value (AOV)?
+
+What is the total revenue by product?
+
+What is the total revenue by month?
+
+What is the total sales by category?
+
